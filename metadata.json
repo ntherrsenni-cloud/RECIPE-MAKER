@@ -1,0 +1,6 @@
+{
+  "name": "College Recipe Generator",
+  "description": "AI-powered recipe generator for college students to cook simple, delicious meals from available ingredients.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
